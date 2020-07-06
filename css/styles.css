@@ -1,0 +1,110 @@
+.bottom-container{
+  background-color: #0fabbc;
+  padding: 20px 0;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.web{
+  text-decoration: underline;
+}
+.fw{
+  font-weight: normal;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:300px;
+  left:300px;
+}
+.top-cloud{
+   position: absolute;
+  right:200px;
+   top:50px;
+}
+h1{
+   color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+h3{
+color:  #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  color:  #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+p{
+}
+.mountain{
+}
+.middle-container{
+  background-color: #eeeeee;
+  padding: 30px 0 0;
+}
+.skill-row{
+   width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.cimg{
+  float: left;
+  margin-right: 30px;
+  width:30%;
+}
+.phyimg{
+   float: right;
+   margin-left: 30px;
+   width:30%;
+}
+.tushar{
+  width:25%;
+}
+hr{
+  width:4%;
+  border-style: dotted none none ;
+  border-width:5px;
+  border-color: grey;
+  margin: 50px auto 50px auto;
+}
+.myButton {
+	box-shadow: 0 0 9px 0 #76ead7;
+	background-color: #76ead7;
+	border-radius:9px;
+	border:1px solid #76ead7;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1 0 #99d8d0;
+  margin: 20px 0;
+}
+.myButton:hover {
+	background-color: #99d8d0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
